@@ -32,4 +32,4 @@ public static boolean isLocationEnabled(Context context) {
             toast.show();
  }
  
- Thats all..
+ // Thats all..
